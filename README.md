@@ -134,9 +134,9 @@ You can deploy this project using visual studio code and Figma.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Show summary of the books.**
-- [ ] **Consult by theme.**
-- [ ] **Shopping cart.**
+- [ ] 
+- [ ] 
+- [ ] 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
