@@ -101,9 +101,9 @@ Clone the repository using git, and open it with visual studio code.
 Clone this repository to your desired folder:
 
   cd "your-folder"
-  git clone [https://joramot.github.io/ES6_Awesome_books/]
+  git clone [https://github.com/joramot/webpack_project.git]
 
-  git clone [git@github.com:https://joramot.github.io/ES6_Awesome_books/]
+  git clone [git@github.com:https://github.com/joramot/webpack_project.git]
 
 
 ### Usage
